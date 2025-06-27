@@ -1,1 +1,1 @@
-print('yo bitch')
+print('yo')
